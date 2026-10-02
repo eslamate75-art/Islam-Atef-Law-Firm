@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <circle cx="48" cy="48" r="45" stroke="#C6A66D" stroke-opacity=".82"/>
+  <circle cx="48" cy="48" r="39" stroke="#DEC89C" stroke-opacity=".3"/>
+  <path d="M21 26h54M21 70h54M28 22v52m20-52v52m20-52v52" stroke="#DEC89C" stroke-opacity=".22"/>
+  <text x="48" y="56" fill="#DEC89C" font-family="Georgia,'Times New Roman',serif" font-size="24" letter-spacing="1.2" text-anchor="middle">IAS</text>
+  <path d="M39 64h18" stroke="#C6A66D" stroke-width="1.2"/>
+</svg>
