@@ -1,0 +1,46 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#081823"/>
+  <g opacity="0.78">
+    <path d="M0 1030L320 840L590 1010L920 780L1220 980L1600 760V1200H0V1030Z" fill="url(#paint0_linear)"/>
+    <path d="M0 880L300 690L560 850L910 620L1240 810L1600 610V1200H0V880Z" fill="url(#paint1_linear)"/>
+    <path d="M0 720L220 560L540 720L860 470L1180 700L1600 470V1200H0V720Z" fill="url(#paint2_linear)"/>
+  </g>
+  <g opacity="0.8">
+    <rect x="200" y="240" width="400" height="500" rx="10" fill="#0F2532" stroke="#D6A24A" stroke-opacity="0.24"/>
+    <rect x="260" y="300" width="280" height="150" rx="8" fill="#112B3D"/>
+    <rect x="260" y="500" width="280" height="170" rx="8" fill="#0B1E2A"/>
+    <rect x="1020" y="200" width="360" height="580" rx="12" fill="#0E2230" stroke="#D6A24A" stroke-opacity="0.2"/>
+    <rect x="1080" y="270" width="240" height="140" rx="8" fill="#132E3F"/>
+    <rect x="1080" y="460" width="240" height="220" rx="8" fill="#0A1D2B"/>
+  </g>
+  <g opacity="0.7">
+    <path d="M740 200H860V980H740V200Z" fill="#172F3F"/>
+    <path d="M660 280H940V370H660V280Z" fill="#0D1F2C"/>
+    <path d="M650 430H950V520H650V430Z" fill="#112B3D"/>
+    <path d="M620 620H980V700H620V620Z" fill="#0B1E2A"/>
+  </g>
+  <g opacity="0.28" stroke="#E7BE6A" stroke-width="1.2">
+    <path d="M0 260H1600"/>
+    <path d="M0 500H1600"/>
+    <path d="M0 760H1600"/>
+    <path d="M0 1040H1600"/>
+    <path d="M300 0V1200"/>
+    <path d="M620 0V1200"/>
+    <path d="M980 0V1200"/>
+    <path d="M1320 0V1200"/>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear" x1="800" y1="760" x2="800" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B313E"/>
+      <stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="800" y1="620" x2="800" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123046"/>
+      <stop offset="1" stop-color="#091A24"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="800" y1="470" x2="800" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C2230"/>
+      <stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+  </defs>
+</svg>

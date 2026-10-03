@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace your-domain.example with the site's production domain before publishing. -->
+  <url><loc>https://your-domain.example/index.html</loc></url>
+  <url><loc>https://your-domain.example/about.html</loc></url>
+  <url><loc>https://your-domain.example/services.html</loc></url>
+  <url><loc>https://your-domain.example/corporate-investment.html</loc></url>
+  <url><loc>https://your-domain.example/real-estate-contracts.html</loc></url>
+  <url><loc>https://your-domain.example/contracts.html</loc></url>
+  <url><loc>https://your-domain.example/litigation.html</loc></url>
+  <url><loc>https://your-domain.example/foreigners.html</loc></url>
+  <url><loc>https://your-domain.example/articles.html</loc></url>
+  <url><loc>https://your-domain.example/contact.html</loc></url>
+</urlset>
